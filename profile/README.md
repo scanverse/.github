@@ -33,9 +33,8 @@ Scanverse performs a wide range of vulnerability checks, including but not limit
 - Slow-Loris DoS Attack, LFI (Local File Inclusion), RFI (Remote File Inclusion), & RCE (Remote Code Execution).
 
 ## Architecture 
-<div align="center">
-  <img src="./scanverse architecture.svg" alt="scanverse architecturee" width="auto" height="auto">
-</div>
+- ![](./scanversearchitecture.svg)
+
 
 
 ## Get Started
